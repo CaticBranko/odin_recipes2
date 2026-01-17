@@ -1,1 +1,1 @@
-# odin_recipes2
+This is just me doing odin_recipes project again, lule
