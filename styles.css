@@ -12,7 +12,27 @@ li {
     display: block;
     box-sizing: border-box;
     background-color: white;
-    margin-right: 250px;
+    margin-right: 1000px;
     padding: 10px;
+
+}
+
+div {
+
+    display: block;
+    box-sizing: border-box;
+    background-color: white;
+    margin-right: 900px;
+    padding: 10px;  
+
+}
+
+.button {
+
+    display: block;
+    box-sizing: border-box;
+    background-color: white;
+    margin: 200px;
+    padding: 20px;
 
 }
